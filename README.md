@@ -127,5 +127,23 @@ Number of duplicate rows:
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 ```
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/1.png" align='center', width="50%">
+</div>
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/2.png" align='center', width="50%">
+</div>
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/3.png" align='center', width="50%">
+</div>
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/4.png" align='center', width="50%">
+</div>
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/5.png" align='center', width="50%">
+</div>
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/6.png" align='center', width="50%">
+</div>
 
 Also there is `demo.ipynb` file in this repository. Download and try it yourself!
