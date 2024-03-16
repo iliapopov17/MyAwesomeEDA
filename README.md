@@ -17,7 +17,19 @@ Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python mo
 git clone https://github.com/iliapopov17/EDA-module.git
 ```
 
-## Usage
+```bash
+pip install -r requirements.txt
+```
+
+## Usage Guide
+
+### GIF format
+
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/demo.gif" align='center', width="50%">
+</div>
+
+### Markdown fomat
 
 ```python
 import pandas as pd
@@ -46,80 +58,90 @@ Welcome to the Awesome EDA Module!
 
 ```
 Number of observations (rows):
-887
+891
 Number of parameters (columns):
-8
+12
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 Data types of each column:
-Survived                     int64
-Pclass                       int64
-Name                        object
-Sex                         object
-Age                        float64
-Siblings/Spouses Aboard      int64
-Parents/Children Aboard      int64
-Fare                       float64
+PassengerId      int64
+Survived         int64
+Pclass           int64
+Name            object
+Sex             object
+Age            float64
+SibSp            int64
+Parch            int64
+Ticket          object
+Fare           float64
+Cabin           object
+Embarked        object
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 Numerical features:
-['Age', 'Siblings/Spouses Aboard', 'Parents/Children Aboard', 'Fare']
+['PassengerId', 'Age', 'SibSp', 'Parch', 'Fare']
 
 String features:
-['Name']
+['Name', 'Ticket', 'Cabin']
 
 Categorical features:
-['Survived', 'Pclass', 'Sex']
+['Survived', 'Pclass', 'Sex', 'Embarked']
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 Counts and frequencies for Survived:
-0: Counts=545, Frequencies=61.44%
-1: Counts=342, Frequencies=38.56%
+0: Counts=549, Frequencies=61.62%
+1: Counts=342, Frequencies=38.38%
 
 Counts and frequencies for Pclass:
-3: Counts=487, Frequencies=54.90%
-1: Counts=216, Frequencies=24.35%
-2: Counts=184, Frequencies=20.74%
+3: Counts=491, Frequencies=55.11%
+1: Counts=216, Frequencies=24.24%
+2: Counts=184, Frequencies=20.65%
 
 Counts and frequencies for Sex:
-male: Counts=573, Frequencies=64.60%
-female: Counts=314, Frequencies=35.40%
+male: Counts=577, Frequencies=64.76%
+female: Counts=314, Frequencies=35.24%
+
+Counts and frequencies for Embarked:
+S: Counts=644, Frequencies=72.28%
+C: Counts=168, Frequencies=18.86%
+Q: Counts=77, Frequencies=8.64%
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 Summary statistics for numerical features:
-              Age  Siblings/Spouses Aboard  Parents/Children Aboard       Fare
-count  887.000000               887.000000               887.000000  887.00000
-mean    29.471443                 0.525366                 0.383315   32.30542
-std     14.121908                 1.104669                 0.807466   49.78204
-min      0.420000                 0.000000                 0.000000    0.00000
-25%     20.250000                 0.000000                 0.000000    7.92500
-50%     28.000000                 0.000000                 0.000000   14.45420
-75%     38.000000                 1.000000                 0.000000   31.13750
-max     80.000000                 8.000000                 6.000000  512.32920
+       PassengerId         Age       SibSp       Parch        Fare
+count   891.000000  714.000000  891.000000  891.000000  891.000000
+mean    446.000000   29.699118    0.523008    0.381594   32.204208
+std     257.353842   14.526497    1.102743    0.806057   49.693429
+min       1.000000    0.420000    0.000000    0.000000    0.000000
+25%     223.500000   20.125000    0.000000    0.000000    7.910400
+50%     446.000000   28.000000    0.000000    0.000000   14.454200
+75%     668.500000   38.000000    1.000000    0.000000   31.000000
+max     891.000000   80.000000    8.000000    6.000000  512.329200
 
 Outliers count for numerical features:
-Outliers count for Age: 13
-Outliers count for Siblings/Spouses Aboard: 46
-Outliers count for Parents/Children Aboard: 213
+Outliers count for PassengerId: 0
+Outliers count for Age: 11
+Outliers count for SibSp: 46
+Outliers count for Parch: 213
 Outliers count for Fare: 116
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 Total missing values:
-0
+866
 Rows with missing values:
-0
+708
 Columns with missing values:
-[]
+['Age', 'Cabin', 'Embarked']
 
 Number of duplicate rows:
 0
@@ -128,22 +150,36 @@ Number of duplicate rows:
 ===== ===== ===== ===== ===== =====
 ```
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/1.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/1.png" align='center', width="50%">
+</div>
+
+===== ===== ===== ===== ===== =====
+===== ===== ===== ===== ===== =====
+
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/2.png" align='center', width="50%">
+</div>
+
+===== ===== ===== ===== ===== =====
+===== ===== ===== ===== ===== =====
+
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/3.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/2.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/4.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/3.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/5.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/4.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/6.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/5.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/7.png" align='center', width="50%">
 </div>
-<div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/demo/6.png" align='center', width="50%">
-</div>
+
+===== ===== ===== ===== ===== =====
+===== ===== ===== ===== ===== =====
 
 Also there is `demo.ipynb` file in this repository. Download and try it yourself!
