@@ -14,7 +14,7 @@ Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python mo
 
 ## Installation
 ```bash
-git clone https://github.com/iliapopov17/EDA-module.git
+git clone https://github.com/iliapopov17/MyAwesomeEDA.git
 ```
 
 ```bash
@@ -53,7 +53,7 @@ Welcome to the Awesome EDA Module!
 ```
 
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/img/welcome.gif" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/img/welcome.gif" align='center', width="50%">
 </div>
 
 ```
@@ -150,33 +150,33 @@ Number of duplicate rows:
 ===== ===== ===== ===== ===== =====
 ```
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/1.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/1.png" align='center', width="50%">
 </div>
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/2.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/2.png" align='center', width="50%">
 </div>
 
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/3.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/3.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/4.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/4.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/5.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/5.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/6.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/6.png" align='center', width="50%">
 </div>
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/7.png" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/7.png" align='center', width="50%">
 </div>
 
 ===== ===== ===== ===== ===== =====
