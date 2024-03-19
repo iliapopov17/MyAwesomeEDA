@@ -1,5 +1,5 @@
 # My Awesome EDA Module
-Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python module provides a set of tools for exploring and analyzing your dataset. Whether you're a data scientist, analyst, or enthusiast, this module will help you gain insights into your data quickly and efficiently.
+> Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python module provides a set of tools for exploring and analyzing your dataset. Whether you're a data scientist, analyst, or enthusiast, this module will help you gain insights into your data quickly and efficiently.
 
 ## Features
 - **Welcome Gif**: A fun welcome gif to kick off your exploration.
@@ -22,6 +22,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage Guide
+
+- Demonstrational python notebook is available in `demo.ipynb` file
 
 ### GIF format
 
@@ -182,4 +184,10 @@ Number of duplicate rows:
 ===== ===== ===== ===== ===== =====
 ===== ===== ===== ===== ===== =====
 
-Also there is `demo.ipynb` file in this repository. Download and try it yourself!
+## Contributing
+Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
+
+## Contact
+For any inquiries or support, feel free to contact me via [email](iljapopov@gmail.com).
+
+Happy data exploring! 🔬
