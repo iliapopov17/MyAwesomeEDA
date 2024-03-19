@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### GIF format
 
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/EDA-module/blob/main/demo/imgs/demo.gif" align='center', width="100%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/demo/imgs/demo.gif" align='center', width="100%">
 </div>
 
 ### Markdown fomat
