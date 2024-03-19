@@ -190,4 +190,4 @@ Contributions are welcome! If you have any ideas, bug fixes, or enhancements, fe
 ## Contact
 For any inquiries or support, feel free to contact me via [email](iljapopov@gmail.com).
 
-Happy data exploring! 🔬
+Happy data exploring! 💻🧐
