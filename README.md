@@ -1,4 +1,9 @@
 # My Awesome EDA Module
+
+<div style='justify-content: center'>
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/logo.gif" align='center', width="100%">
+</div>
+
 > Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python module provides a set of tools for exploring and analyzing your dataset. Whether you're a data scientist, analyst, or enthusiast, this module will help you gain insights into your data quickly and efficiently.
 
 ## Features
@@ -55,7 +60,7 @@ Welcome to the Awesome EDA Module!
 ```
 
 <div style='justify-content: center'>
-<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/img/welcome.gif" align='center', width="50%">
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/welcome.gif" align='center', width="50%">
 </div>
 
 ```

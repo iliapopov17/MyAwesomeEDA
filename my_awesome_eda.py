@@ -14,7 +14,7 @@ COLORS = [
 
 def display_welcome_gif():
     html_code = """
-    <img src="img/welcome.gif" width="200" height="200">
+    <img src="imgs/welcome.gif" width="200" height="200">
     """
     display(HTML(html_code))
 
