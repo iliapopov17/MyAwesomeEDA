@@ -193,6 +193,6 @@ Number of duplicate rows:
 Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any inquiries or support, feel free to contact me via [email](iljapopov@gmail.com).
+For any inquiries or support, feel free to contact me via [email](mailto:iljapopov17@gmail.com)
 
 Happy data exploring! 💻🧐
