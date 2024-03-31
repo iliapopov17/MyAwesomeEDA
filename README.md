@@ -19,7 +19,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/iliapopov17/MyAwesomeEDA.git
+git clone https://github.com/iliapopov17/MyAwesomeEDA.git && cd MyAwesomeEDA
 ```
 
 ```bash
