@@ -54,7 +54,8 @@ run_eda(df)
 ```
 
 ```python
-Unique threshold for categorical features: # you need to manually input a number - threshold to categorize features to categorical features
+"Unique threshold for categorical features: "
+# you need to manually input a number - threshold to categorize features to categorical features
 ```
 
 **_Output_**
