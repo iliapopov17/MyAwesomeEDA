@@ -38,6 +38,8 @@ pip install -r requirements.txt
 
 ### Markdown fomat
 
+**_Input_**
+
 ```python
 import pandas as pd
 from my_awesome_eda import run_eda
@@ -54,6 +56,8 @@ run_eda(df)
 ```python
 Unique threshold for categorical features: # you need to manually input a number - threshold to categorize features to categorical features
 ```
+
+**_Output_**
 
 ```
 Welcome to the Awesome EDA Module!
