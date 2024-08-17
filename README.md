@@ -7,8 +7,8 @@
 ![OS](https://img.shields.io/badge/OS-_Windows_|_Mac_|_Linux-steelblue)
 ![License](https://img.shields.io/badge/License-MIT-steelblue)
 
-<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MyAwesomeEDA_logo_light.png#gh-light-mode-only" width = 50%/>
-<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MyAwesomeEDA_logo_dark.png#gh-dark-mode-only" width = 50%/>
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MAE_logo_light.png#gh-light-mode-only" width = 50%/>
+<img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MAE_logo_dark.png#gh-dark-mode-only" width = 50%/>
 
 > Welcome to the My Awesome EDA (Exploratory Data Analysis) Module! This Python module provides a set of tools for exploring and analyzing your dataset. Whether you're a data scientist, analyst, or enthusiast, this module will help you gain insights into your data quickly and efficiently.
 
