@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 - Demonstrational python notebook is available in `demo.ipynb` file<br>
 
-🔗 Visit [MyAwesomeEDA tutorial](https://iliapopov17.github.io/MyAwesomeEDA/) web page
+🔗 Visit [MyAwesomeEDA wiki](https://github.com/iliapopov17/MyAwesomeEDA/wiki) page
 
 ## Contributing
 Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
