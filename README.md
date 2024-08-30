@@ -25,11 +25,11 @@
 
 ## Installation
 ```bash
-git clone https://github.com/iliapopov17/MyAwesomeEDA.git && cd MyAwesomeEDA
+pip install myawesomeeda
 ```
 
-```bash
-pip install -r requirements.txt
+```python
+from my_awesome_eda import run_eda
 ```
 
 ## Usage Guide
