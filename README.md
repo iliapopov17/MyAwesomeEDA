@@ -4,8 +4,12 @@
 ![Pandas](https://img.shields.io/badge/Dependecy-Pandas-steelblue)
 ![Seaborn](https://img.shields.io/badge/Dependecy-Seaborn-steelblue)
 ![Matplotlib](https://img.shields.io/badge/Dependecy-Matplotlib-steelblue)
-![OS](https://img.shields.io/badge/OS-_Windows_|_Mac_|_Linux-steelblue)
 ![License](https://img.shields.io/badge/License-MIT-steelblue)
+[![Downloads](https://static.pepy.tech/badge/myawesomeeda)](https://pepy.tech/project/myawesomeeda)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MAE_logo_light.png#gh-light-mode-only" width = 50%/>
 <img src="https://github.com/iliapopov17/MyAwesomeEDA/blob/main/imgs/MAE_logo_dark.png#gh-dark-mode-only" width = 50%/>
