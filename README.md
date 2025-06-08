@@ -6,6 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Dependecy-Matplotlib-steelblue)
 ![License](https://img.shields.io/badge/License-MIT-steelblue)
 [![Downloads](https://static.pepy.tech/badge/myawesomeeda)](https://pepy.tech/project/myawesomeeda)
+[![Tests](https://github.com/iliapopov17/myawesomeeda/workflows/Tests/badge.svg)](https://github.com/iliapopov17/myawesomeeda/actions?workflow=Tests)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
